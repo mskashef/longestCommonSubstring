@@ -1,5 +1,7 @@
 ## A Program to find LCS of two strings in JavaScript.
 
+Code:
+
 ```JAVASCRIPT
 (function (exports) {
   'use strict';
