@@ -26,7 +26,7 @@
       let str = '', maxStr = '';
       for (let i = 0; i < shortString.length; i++) {
         if (shortString[i] === longString[i]) {
-          if (i === numberOfShifts) { // if is end of the short string
+          if (i === numberOfShifts) {
             str = shortString[i];
           } else {
             str += shortString[i];
