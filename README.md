@@ -1,4 +1,4 @@
-## A Program to find LCS of two strings.
+## A Program to find LCS of two strings in JavaScript.
 
 ```JAVASCRIPT
 (function (exports) {
